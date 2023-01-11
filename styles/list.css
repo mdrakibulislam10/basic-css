@@ -1,0 +1,9 @@
+li {
+    /* border: 1px solid salmon; */
+    color: rgb(176, 111, 176);
+}
+
+ul li {
+    color: rgb(125, 125, 217);
+    display: inline;
+}

@@ -1,0 +1,53 @@
+header {
+    height: 200px;
+    background-image: url("../images/Family\ Photo\ Framejpg.0.jpg ");
+    /* background-size: 8%; */
+    background-size: cover;
+    /* background-size: contain; */
+    background-repeat: no-repeat;
+    /* background-repeat: repeat-y; */
+    /* background-position: right; */
+    /* background-position: bottom; */
+    /* background-position: center; */
+    /* background-position: bottom right; */
+    background-color: rgb(251, 0, 255);
+    background-blend-mode: multiply;
+    /* background-blend-mode: darken; */
+    /* background-blend-mode: hue; */
+}
+
+.blog {
+    background-color: rgba(28, 255, 16, 0.295);
+    box-shadow: 10px 10px 10px hotpink;
+    margin-bottom: 100px;
+}
+
+h3 {
+    color: rgb(0, 255, 30);
+    /* text-decoration: underline; */
+    text-decoration: overline wavy red;
+    text-decoration: underline wavy red;
+}
+
+p {
+    color: purple;
+}
+
+.page-title {
+    background-color: rgb(152, 143, 91);
+}
+
+a {
+    text-decoration: none;
+}
+
+span {
+    border: 2px solid rgb(41, 157, 76);
+    height: 134px;
+    width: 145px;
+    margin-top: 34px;
+    margin-left: 34px;
+    /* display: inline-block; */
+    /* display: block; */
+    display: none;
+}
